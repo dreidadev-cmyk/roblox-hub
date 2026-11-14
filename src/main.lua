@@ -1,5 +1,5 @@
 --[[ src/main.lua ]]
-local BASE = "https://raw.githubusercontent.com/dreidadev-cmyk/REPO/main/"
+local BASE = "https://raw.githubusercontent.com/dreidadev-cmyk/roblox-hub/main/"
 
 local Hub = {
     Version = "0.1.0",
