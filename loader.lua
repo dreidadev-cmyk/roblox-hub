@@ -1,5 +1,5 @@
 --[[ loader.lua — dreidadev-cmyk ]]
-local BASE = "https://raw.githubusercontent.com/dreidadev-cmyk/REPO/main/"
+local BASE = "https://raw.githubusercontent.com/dreidadev-cmyk/roblox-hub/main/"
 
 local ok, err = pcall(function()
     local main = loadstring(game:HttpGet(BASE .. "src/main.lua"))()
